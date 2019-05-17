@@ -62,12 +62,12 @@
 		width: 90%;
 		margin-left: 5%;
 	}
+	.margem {
+		margin: 1em;
+	}
 	.hl {
 	    border-radius: 10px 10px 10px 10px;
 	    margin: 10px;
-	}
-	#hlmob {
-		margin: 1em;
 	}
 	#hlmob::before {
 		content: url(https://fabianodealmeida.github.io/img/holos.svg);
@@ -79,9 +79,6 @@
 	.t7 {
 	    border-radius: 10px 10px 10px 10px;
 	    margin: 10px;
-	}
-	#t7mob {
-		margin: 1em;
 	}
 	#t7mob::before {
 		content: url(https://fabianodealmeida.github.io/img/techno7.png);
