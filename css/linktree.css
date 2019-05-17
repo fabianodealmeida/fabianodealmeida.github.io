@@ -56,7 +56,7 @@
 
 
 /* width 320 - o valor atual é para teste no computador */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 300px) {
 	.flutua{
 		
 		width: 100%;
