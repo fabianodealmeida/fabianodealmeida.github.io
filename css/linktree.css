@@ -70,7 +70,7 @@
 	    margin: 10px;
 	}
 	#hlmob::before {
-		content: url(https://fabianodealmeida.github.io/img/holos.svg);
+		content: url("https://fabianodealmeida.github.io/img/holos.svg");
 	}
 	.hlb {
 	    border-radius: 10px 10px 10px 10px;
@@ -81,7 +81,7 @@
 	    margin: 10px;
 	}
 	#t7mob::before {
-		content: url(https://fabianodealmeida.github.io/img/t7.png);
+		content: url("https://fabianodealmeida.github.io/img/t7.png");
 	}
 	.t7b {
 	    border-radius: 10px 10px 10px 10px;
