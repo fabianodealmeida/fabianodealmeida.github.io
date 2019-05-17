@@ -11,7 +11,7 @@
 }
 
 #banner {
-	background-image: linear-gradient(#4fe, #fff);	/* 0030f4 */
+	background-image: linear-gradient(#0030f4, #fff);	/* 0030f4 */
 }
 
 .hl {
@@ -67,7 +67,7 @@
 	    margin: 10px;
 	}
 	#hlmob::before {
-		content: url(https://fabianodealmeida.github.io/img/t7_200.png);
+		content: url(https://fabianodealmeida.github.io/img/holos.svg);
 	}
 	.hlb {
 	    border-radius: 10px 10px 10px 10px;
@@ -76,6 +76,9 @@
 	.t7 {
 	    border-radius: 10px 10px 10px 10px;
 	    margin: 10px;
+	}
+	#t7mob::before {
+		content: url(https://fabianodealmeida.github.io/img/techno7.jpg);
 	}
 	.t7b {
 	    border-radius: 10px 10px 10px 10px;
