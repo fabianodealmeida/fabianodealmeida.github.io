@@ -56,12 +56,9 @@
 
 
 /* width 320 - o valor atual é para teste no computador */
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 820px) {
 	.flutua{
-		
 		width: 100%;
-		margin-left: auto;
-		margin-right: auto;
 	}
 	.margem {
 		margin: 10px;
